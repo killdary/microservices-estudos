@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\killdary\\estudos\\MicroservicesAPP\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\Users\\killdary.santana\\source\\repos\\Estudos\\udemy\\microservice1\\microservices-estudos\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\killdary\\estudos\\MicroservicesAPP\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\Users\\killdary.santana\\source\\repos\\Estudos\\udemy\\microservice1\\microservices-estudos\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\killdary\\estudos\\MicroservicesAPP\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\killdary.santana\\source\\repos\\Estudos\\udemy\\microservice1\\microservices-estudos\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\killdary\\estudos\\MicroservicesAPP\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\killdary\\estudos\\MicroservicesAPP\\src\\Catalog\\Catalog.API\\obj\\",
+        "projectPath": "C:\\Users\\killdary.santana\\source\\repos\\Estudos\\udemy\\microservice1\\microservices-estudos\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "packagesPath": "C:\\Users\\killdary.santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\killdary.santana\\source\\repos\\Estudos\\udemy\\microservice1\\microservices-estudos\\src\\Catalog\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\killdary.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
